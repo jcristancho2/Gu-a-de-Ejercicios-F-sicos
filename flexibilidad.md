@@ -15,3 +15,6 @@ No fuerces el rango de movimiento 🚫: Estira hasta sentir tensión, pero sin d
 
 Sé constante 📅: La flexibilidad mejora con la práctica regular, así que incluye estiramientos en tu rutina diaria.
 
+## Consejos
+- Mantén una hidratación adecuada.
+- Escoge un ritmo que puedas mantener.
