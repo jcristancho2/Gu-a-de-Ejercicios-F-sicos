@@ -8,4 +8,9 @@ rabaja todos los grupos musculares de manera suave.
  - fortalece todo el cuerpo
  - mejora la postura y la flexibilidad
 
- 
+## Instrucciones
+
+1. cordinar brazos y piernas 
+2. usar una poatada constante
+3. controlar la respiracion
+
