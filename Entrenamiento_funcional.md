@@ -12,4 +12,14 @@ Mejora la fuerza en movimientos cotidianos.
  - Aumenta el rendimiento en actividades diarias 
  - Es adaptable para todos 
 
- 
+ ## instrucciones
+
+1. realizar calentamiento previo
+2. mantener una postura adecuada
+3. ejecutar los movimientos con control
+4. respirar correctamente
+5. usar una intencidad adecuada
+6. descansar entre ejercicios
+7. hidratarte y escuchar tu cuerpo 
+
+
