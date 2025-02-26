@@ -9,3 +9,7 @@ Mantén una postura adecuada 🏋️‍♂️: Asegúrate de alinear la espalda,
 Controla el movimiento ⏳: Realiza cada repetición de manera lenta y controlada, evitando usar el impulso para garantizar la efectividad del ejercicio.
 
 Respira correctamente 🌬️: Inhala en la fase de descenso y exhala al hacer el esfuerzo para mejorar el rendimiento y estabilidad.
+
+## Consejos
+- Mantén una hidratación adecuada.
+- Escoge un ritmo que puedas mantener.
