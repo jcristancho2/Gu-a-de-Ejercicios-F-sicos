@@ -22,4 +22,7 @@ Mejora la fuerza en movimientos cotidianos.
 6. descansar entre ejercicios
 7. hidratarte y escuchar tu cuerpo 
 
-
+## recomendaciones
+## Consejos
+- Mantén una hidratación adecuada.
+- Escoge un ritmo que puedas mantener.
