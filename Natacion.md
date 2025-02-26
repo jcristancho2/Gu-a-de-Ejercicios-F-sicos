@@ -14,3 +14,8 @@ rabaja todos los grupos musculares de manera suave.
 2. usar una poatada constante
 3. controlar la respiracion
 
+## consejo
+
+- fortalece el core y los hombros
+- entrena la respiracion bajo el agua
+- disfruta el proceso
