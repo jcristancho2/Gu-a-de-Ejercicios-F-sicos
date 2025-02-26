@@ -13,4 +13,7 @@ Fortalece el núcleo y mejora la postura.
  2. realizar movimientos con precision 
  3. empezar con ejercicos basicos
 
- ## 
+## Recomendaciones
+
+- usa una colchoneta antideslizante
+- practica 2 o 3 veces por semana
