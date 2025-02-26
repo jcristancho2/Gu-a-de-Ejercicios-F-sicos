@@ -14,3 +14,8 @@ gran ejercico cardiovascular de bajo impacto
 1. mentener una postura adecuada
 2. calentar antes de empezar
 3. hidratarte regularmente 
+
+## Recomendaciones
+
+- usar casco por seguridad
+- revisar bicicleta antes de salir
