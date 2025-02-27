@@ -3,6 +3,12 @@
 ## Descripccion 
 Mejora la movilidad y reduce el riesgo de lesiones.
 
+## Beneficios
+
+1. mejora la nmovilidad acticular
+2. previene lesiones
+3. reeduce el estres y la tension muscular
+
 ## instrucciones
 
 Calienta antes de estirar 🔥: Realiza movimientos suaves o ejercicios ligeros para aumentar la temperatura muscular y evitar lesiones.
