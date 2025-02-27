@@ -13,3 +13,8 @@ Fomenta la relajación y la flexibilidad.
 2. respira de forma consistente
 3. sigue un ritmo relajado
 
+# consejos
+
+- hidatate bien
+- se constante
+- no te compares con otros
