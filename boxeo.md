@@ -14,3 +14,8 @@
 2. practicar combinaciones de golpes
 3. golper con tecnica no solo con fuerza
 
+## consejos
+
+- perfecciona el jab
+- no bajes la guardia
+- aprende a moverte lateralmente
